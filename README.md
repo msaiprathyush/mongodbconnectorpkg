@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### requirements_dev.txt we use for the testing
 -------------------------------------------------
 It makes it easier to install and manage dependencies for development and testing, separate from the dependencies required for production.
@@ -52,3 +53,4 @@ Types of testing
 1) pylint
 2) flake8(it is best because it containt 3 library pylint pycodestyle mccabe)
 3) pycodestyle
+
